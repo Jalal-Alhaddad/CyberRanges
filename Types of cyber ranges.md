@@ -1,6 +1,6 @@
 # Types of cyber ranges
 
-## Classification Based on Implementation Approach
+## 1. Classification Based on Implementation Approach
 
 | Type of Cyber Range Platform     | Focus                           | Features                                         | Applications                                                                       | Available Platforms (Examples)                                                 |
 |----------------------------------|---------------------------------|--------------------------------------------------|------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
@@ -12,7 +12,7 @@
 | Threat Hunting Platforms         | Proactive threat detection      | Analyzing data for anomalies and threats         | Developing data analysis, pattern recognition, and proactive threat hunting skills | ThreatWarrior, Sqrrl Threat Hunting, Cybrary                                   |
 | Cloud-Based Cyber Ranges         | Remote and scalable training    | Accessible via the internet, scalability         | Enabling remote hands-on training, collaboration, and flexible learning            | AWS Cyber Range, Azure Sentinel Playbooks, SANS Cyber Ranges, RangeForce       |
 
-## Classification Based on Cyber Range Types
+## 2. Classification Based on Cyber Range Types
 
 | Implementation Approach | Description                                                                                                         | Example Cyber Range Platforms                                                                                                       |
 |-------------------------|---------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
@@ -21,7 +21,7 @@
 | Emulation               | Create replicas or clones of networks, systems, tools, and applications. Very realistic but resource-intensive.     | - Diateam<br>- Cyberbit                                                                                                             |
 | Hybrid                  | Combine elements of simulations, overlay, and emulation for a balanced approach.                                    | - NetWars (SANS Cyber Ranges)<br>- RH Labs (RangeForce)<br>- Cymulate<br>- Cyberbit Range<br>- RangeForce<br>- Cybrary<br>- Diateam |
 
-## Cyber range platforms comparison
+## 3. Cyber range platforms comparison
 
 | Factor           | Penetration Testing Platforms | Incident Response Simulations  | Capture The Flag Platforms | Red Team vs. Blue Team Platforms | Threat Hunting Platforms | Cloud-Based Cyber Ranges |
 |------------------|-------------------------------|--------------------------------|----------------------------|----------------------------------|--------------------------|--------------------------|
@@ -33,7 +33,7 @@
 | Test Orientation | Offensive Security            | Defensive Security             | Offensive Security         | Both                             | Both                     | Both                     |
 | Readiness Focus  | Offensive Preparedness        | Incident Response Preparedness | Security Challenges        | Team Collaboration               | Threat Detection         |                          |
 
-## Cyber range platforms comparison base on implementation approach
+## 4. Cyber range platforms comparison base on implementation approach
 
 | Aspect                 | Simulations                                               | Overlay                                                       | Emulation                                           | Hybrid                                          |
 |------------------------|-----------------------------------------------------------|---------------------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|

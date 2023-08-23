@@ -5,16 +5,16 @@
   - [What are Cyber Ranges](#what-are-cyber-ranges)
     - [Components of a Cyber Range](#components-of-a-cyber-range)
     - [How a Cyber Range Works](#how-a-cyber-range-works)
+  - [Interface parts](#interface-parts)
   - [Importance of Hands-On Learning](#importance-of-hands-on-learning)
   - [Types of Cyber Range Platforms](#types-of-cyber-range-platforms)
   - [Cyber Range Benefits](#cyber-range-benefits)
-  - [Media](#media)
   - [Industry Relevance](#industry-relevance)
     - [Users of Cyber Ranges](#users-of-cyber-ranges)
     - [Use Cases of Cyber Ranges](#use-cases-of-cyber-ranges)
   - [Your Next Steps](#your-next-steps)
+  - [Media](#media)
   - [Conclusion and Q\&A](#conclusion-and-qa)
-
 
 ## Introduction
 
@@ -24,8 +24,6 @@ In the rapidly evolving landscape of cybersecurity, we're faced with new threats
 > Benjamin Franklin
 
 ## What are Cyber Ranges
-
-> In cybersecurity, theory is only half the battle. Practical experience is the other.
 
 Simulated environments that replicate real-world cyber scenarios.
 
@@ -50,6 +48,15 @@ flight simulators for cybersecurity
 - **Learning Outcomes**: At the end of the exercise, participants gain insights into their performance, identify areas for improvement, and learn from their experiences.
 - **Repeatable Practice**: Participants can repeat exercises, try different approaches, and experiment with various strategies. This repetition allows them to refine their skills and gain a deeper understanding of cybersecurity concepts.
 - **Skill Development**: Through practical experience and exposure to various scenarios, participants develop critical skills related to threat detection, incident response, penetration testing, and more.
+
+## Interface parts
+
+- Topology Management, Overview
+- Entity Management
+- Wire Management
+- Capture job (Wireshark)
+- Memory dumps
+- Snapshots manager
 
 ## Importance of Hands-On Learning
 
@@ -87,6 +94,8 @@ flight simulators for cybersecurity
 
 ## Cyber Range Benefits
 
+> In cybersecurity, theory is only half the battle. Practical experience is the other.
+
 1. **Skill Development**: "Cyber range platforms excel in honing practical skills. Participants can directly apply theoretical concepts to hands-on exercises, strengthening their ability to identify vulnerabilities, respond to threats, and execute security measures. This active engagement fosters a deeper understanding of cybersecurity principles."
 2. **Realistic Scenarios**: "One of the major advantages is the creation of realistic scenarios. These platforms simulate genuine cyber threats and incidents, mirroring the complexity and urgency of actual breaches. Participants are exposed to a diverse range of challenges, preparing them for various real-world situations."
 3. **Safe Learning Environment**: "Cyber range platforms provide a safe and controlled environment for learning. Mistakes made during training do not have real-world consequences, allowing participants to experiment, test strategies, and learn from failures. This freedom to explore fosters innovation and confidence."
@@ -94,8 +103,6 @@ flight simulators for cybersecurity
 5. **Team Collaboration**: "Many cyber range platforms support team exercises, encouraging collaborative problem-solving. Participants learn to communicate effectively, delegate tasks, and coordinate responses—essential skills for cybersecurity teams working in tandem."
 6. **Immediate Feedback**: "Immediate feedback is a hallmark of cyber range training. Participants receive instant assessments of their performance, helping them understand their strengths and areas for improvement. This iterative process accelerates learning."
 7. **Preventing Burnout**: "Hands-on learning breaks the monotony of traditional training methods, preventing burnout. The engaging nature of cyber range exercises keeps participants motivated, eager to tackle new challenges."
-
-## Media
 
 ## Industry Relevance
 
@@ -136,6 +143,14 @@ flight simulators for cybersecurity
 - **Continuous Learning**: "Cybersecurity is a rapidly evolving field. Stay updated on the latest threats, vulnerabilities, and defense techniques. Continuously explore new exercises, challenges, and platforms to keep your skills sharp."
 - **Set Goals**: "Define your cybersecurity career goals. Whether you aspire to become a penetration tester, incident responder, or any other role, cyber range training can help you achieve your ambitions. Set achievable goals and work towards them."
 
+## Media
+
+[Cyber Range](https://www.diateam.net/what-is-a-cyber-range/)
+
 ## Conclusion and Q&A
 
 > In the world of cybersecurity, practice isn't the thing you do once you're good. It's the thing you do that makes you good.
+
+- Understanding of Cyber Ranges.
+- Differentiation of Platform Types.
+- Industry Relevance.

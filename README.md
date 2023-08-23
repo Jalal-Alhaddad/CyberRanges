@@ -1,4 +1,4 @@
-# Cyber Ranges
+# Exploring Cyber Ranges
 
 - [Exploring Cyber Ranges](./Exploring%20Cyber%20Ranges.md)
 - [Types of cyber ranges](./Types%20of%20cyber%20ranges.md)
