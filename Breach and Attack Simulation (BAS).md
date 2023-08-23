@@ -19,3 +19,13 @@
 - **Continuous Improvement**: Regular BAS exercises can help organizations continuously improve their security posture based on evolving threats.
 
 **Breach and Attack Simulation** (BAS) can be considered a form of cyber range, specifically falling under the category of simulation-based cyber ranges. While traditional cyber ranges may encompass a broader range of exercises and scenarios, BAS focuses specifically on simulating cyber attacks and breaches to assess an organization's security readiness.
+
+**Breach and Attack Simulation** vs Cyber Range
+
+| Aspect   | BAS (Breach and Attack Simulation) | Cyber Range                    |
+| -------- | ---------------------------------- | ------------------------------ |
+| Category | Vulnerability management           | Red/Blue/Purple teaming        |
+| Approach | Simulation                         | Emulation                      |
+| Method   | Predefined, automated attack paths | Context-aware hacker TTPs      |
+| Outcome  | Control validation                 | Skills evaluation              |
+| Focus    | Technology vulnerabilities         | Human response vulnerabilities |
