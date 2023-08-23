@@ -15,10 +15,10 @@
 
 ## WE LEARN
 
-⭕ 10 percent of what we read,
-⭕ 20 percent of what we hear,
-⭕ 30 percent of what we see,
-⭕ 50 percent of what we see and hear,
-⭕ 70 percent of what we discuss,
-⭕ 80 percent of what we experience, and
-⭕ 95 percent of what we teach others.
+- ⭕ 10 percent of what we read,
+- ⭕ 20 percent of what we hear,
+- ⭕ 30 percent of what we see,
+- ⭕ 50 percent of what we see and hear,
+- ⭕ 70 percent of what we discuss,
+- ⭕ 80 percent of what we experience, and
+- ⭕ 95 percent of what we teach others.
