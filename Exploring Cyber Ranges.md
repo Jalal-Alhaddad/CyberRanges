@@ -106,7 +106,7 @@ flight simulators for cybersecurity
 
 ## Industry Relevance
 
-1. **Meeting Evolving Threats**: "Cyber range training equips individuals to tackle evolving threats. The dynamic and ever-changing nature of cyberattacks demands professionals who can adapt quickly. Cyber range skills prepare participants to face the latest attack techniques."
+1. **Meeting Evolving Threats**: "Cyber range training equips individuals to tackle evolving threats. The dynamic and ever-changing nature of cyber attacks demands professionals who can adapt quickly. Cyber range skills prepare participants to face the latest attack techniques."
 2. **Closing Skills Gap**: "The cybersecurity industry faces a significant skills gap. Traditional training methods often fall short of producing proficient practitioners. Cyber range platforms address this gap by providing practical experiences that directly translate to real-world scenarios."
 3. **Hands-On Expertise**: "Employers seek professionals who can demonstrate practical expertise. Cyber range-trained individuals have hands-on experience responding to breaches, identifying vulnerabilities, and implementing security measures. This experience sets them apart in the job market."
 4. **Demonstrable Competence**: "Cyber range skills offer a tangible demonstration of competence. Certifications and degrees provide foundational knowledge, but practical skills showcased through cyber range training illustrate an individual's ability to apply that knowledge effectively."
@@ -117,7 +117,7 @@ flight simulators for cybersecurity
 
 - **Cybersecurity Professionals**: Security analysts, penetration testers, incident responders, and other cybersecurity professionals use cyber ranges to refine their skills, practice new techniques, and stay updated on evolving threats.
 - **Students and Researchers**: Cybersecurity students and researchers leverage cyber ranges to gain hands-on experience, experiment with security concepts, and develop a deeper understanding of various attack and defense strategies.
-- **Red Team and Blue Team Members**: Red teamers engage in offensive exercises to simulate attacks and identify vulnerabilities, while blue team members defend against these attacks. Both teams use cyber ranges to practice and enhance their skills.
+- **Red Team and Blue Team Members**: Red teams engage in offensive exercises to simulate attacks and identify vulnerabilities, while blue team members defend against these attacks. Both teams use cyber ranges to practice and enhance their skills.
 - **Security Teams**: Security teams within organizations use cyber ranges for team training, collaboration, and incident response simulations to ensure readiness for potential security incidents.
 - **Organizations**: Enterprises and government agencies use cyber ranges to assess their security posture, conduct penetration tests, and train their security teams to respond effectively to cyber threats.
 - **Academic Institutions**: Cyber ranges are integrated into cybersecurity curricula to provide students with practical training and exposure to real-world scenarios, better preparing them for future careers.
@@ -128,7 +128,7 @@ flight simulators for cybersecurity
 - **Incident Response Training**: Cyber ranges allow security teams to simulate various types of cyber incidents, helping them practice incident response procedures and improve their coordination.
 - **Threat Hunting**: Cybersecurity professionals use cyber ranges to practice threat hunting techniques, identifying hidden threats and abnormal activities in a controlled environment.
 - **Malware Analysis**: Cyber ranges enable the analysis of malware samples in a safe environment, helping analysts understand malware behavior and develop effective countermeasures.
-- **Red Team vs. Blue Team Exercises**: Red teamers simulate attacks, and blue teamers defend against them. These exercises enhance both offensive and defensive skills, fostering a holistic understanding of cybersecurity.
+- **Red Team vs. Blue Team Exercises**: Red teams simulate attacks, and blue teams defend against them. These exercises enhance both offensive and defensive skills, fostering a holistic understanding of cybersecurity.
 - **Hands-On Training**: Cyber ranges provide a platform for individuals to engage in practical training, such as setting up firewalls, analyzing logs, and performing vulnerability assessments.
 - **Skill Validation**: Individuals and organizations use cyber ranges to validate and demonstrate their cybersecurity skills, which can be beneficial for certifications and career advancement.
 - **Security Awareness Programs**: Organizations conduct simulations of phishing attacks or social engineering scenarios to train employees and raise awareness about potential cyber threats.
@@ -145,8 +145,8 @@ flight simulators for cybersecurity
 
 ## Media
 
-[DIATEAM Demo](https://www.diateam.net/what-is-a-cyber-range/)
-[SimSpace Demos](https://www.simspace.com/resources/demo-videos#video-103714323796)
+- [DIATEAM Demo](https://www.diateam.net/what-is-a-cyber-range/)
+- [SimSpace Demos](https://www.simspace.com/resources/demo-videos#video-103714323796)
 
 ## Conclusion and Q&A
 
