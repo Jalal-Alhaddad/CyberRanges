@@ -145,7 +145,8 @@ flight simulators for cybersecurity
 
 ## Media
 
-[Cyber Range](https://www.diateam.net/what-is-a-cyber-range/)
+[DIATEAM Demo](https://www.diateam.net/what-is-a-cyber-range/)
+[SimSpace Demos](https://www.simspace.com/resources/demo-videos#video-103714323796)
 
 ## Conclusion and Q&A
 
