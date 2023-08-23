@@ -12,3 +12,13 @@
 4. **Innovation and Creative Knowledge**
    - Definition: Innovation knowledge involves generating new ideas, approaches, and solutions to address novel or complex problems.
    - Characteristics: It requires combining existing knowledge in unique ways to create something new and valuable. This type of knowledge is essential for advancing fields and industries through novel approaches and inventions.
+
+## WE LEARN
+
+⭕ 10 percent of what we read,
+⭕ 20 percent of what we hear,
+⭕ 30 percent of what we see,
+⭕ 50 percent of what we see and hear,
+⭕ 70 percent of what we discuss,
+⭕ 80 percent of what we experience, and
+⭕ 95 percent of what we teach others.
